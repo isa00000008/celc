@@ -15,5 +15,8 @@ h1 {
   color:hotpink
 }
 .peixinho {
-    width: 30%;
+    width: 40%;
+}
+.imagemcentralizada {
+    text-alingn: center;
 }
